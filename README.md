@@ -9,7 +9,9 @@ Two files have been included in the repository:
 
     2. Digital Data Dashboard.pbix - this is a version of the dashboard kept in the original downloadable file format so that you can open it in your local version of Power BI.
 
-    3. Metrics documentation - this is the documentation of all, the metrics used in the dashboard including the code to create them.
+    3. measures.xlsx - this is the documentation of all, the metrics used in the dashboard including the code to create them.
+
+    4. main_seo.ipynb  - this is python scripts that is responsible for adding data from csv to sql database
 
 !! Important !!!
 If you want to see the dashboard in preview mode, you can find it in the link below:
@@ -20,6 +22,7 @@ If you want to see the dashboard in preview mode, you can find it in the link be
         -SQL
         -Power BI
         -Tabular Editor
+        -Dax studio
         
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -69,3 +72,6 @@ ________________________________________________________________________________
     CTR: Click-through rate.
     CPV: Cost per display.
     CPM: Cost per thousand impressions.
+
+###  Additionall information:
+Dax measures and documentation were made using DAX Studio. The dynamic calculation selector was created using the table editor 2.0
