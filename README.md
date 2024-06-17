@@ -7,14 +7,24 @@ Two files have been included in the repository:
 
     1. Digital Data Dashboard.pdf - this is a pdf where you can see what the dashboard looks like. 
 
-    2. Digital Data Dashboard. pbix - this is a version of the dashboard kept in the original downloadable file format so that you can open it in your local version of Power BI.
+    2. Digital Data Dashboard.pbix - this is a version of the dashboard kept in the original downloadable file format so that you can open it in your local version of Power BI.
 
     3. Metrics documentation - this is the documentation of all, the metrics used in the dashboard including the code to create them.
 
 !! Important !!!
 If you want to see the dashboard in preview mode, you can find it in the link below:
 
-### 
+
+### Built with: 
+        -Python
+        -SQL
+        -Power BI
+        -Tabular Editor
+        
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 
 ###  Dashboard preview:
 #### Filter section:
