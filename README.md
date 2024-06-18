@@ -11,8 +11,6 @@ Two files have been included in the repository:
 
     3. Metrics documentation - this is the documentation of all, the metrics used in the dashboard including the code to create them.
 
-!! Important !!!
-If you want to see the dashboard in preview mode, you can find it in the link below:
 
 
 ### Built with: 
