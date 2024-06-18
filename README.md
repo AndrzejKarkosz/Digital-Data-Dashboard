@@ -15,7 +15,6 @@ Two files have been included in the repository:
 
 ### Built with: 
         -Python
-        -SQL
         -Power BI
         -Tabular Editor
         
